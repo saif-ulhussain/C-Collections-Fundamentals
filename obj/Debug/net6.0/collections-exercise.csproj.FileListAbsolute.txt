@@ -1,0 +1,15 @@
+/Users/saif-ul.hussain/Projects/collections-exercise/bin/Debug/net6.0/collections-exercise
+/Users/saif-ul.hussain/Projects/collections-exercise/bin/Debug/net6.0/collections-exercise.deps.json
+/Users/saif-ul.hussain/Projects/collections-exercise/bin/Debug/net6.0/collections-exercise.runtimeconfig.json
+/Users/saif-ul.hussain/Projects/collections-exercise/bin/Debug/net6.0/collections-exercise.dll
+/Users/saif-ul.hussain/Projects/collections-exercise/bin/Debug/net6.0/collections-exercise.pdb
+/Users/saif-ul.hussain/Projects/collections-exercise/obj/Debug/net6.0/collections-exercise.csproj.AssemblyReference.cache
+/Users/saif-ul.hussain/Projects/collections-exercise/obj/Debug/net6.0/collections-exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saif-ul.hussain/Projects/collections-exercise/obj/Debug/net6.0/collections-exercise.AssemblyInfoInputs.cache
+/Users/saif-ul.hussain/Projects/collections-exercise/obj/Debug/net6.0/collections-exercise.AssemblyInfo.cs
+/Users/saif-ul.hussain/Projects/collections-exercise/obj/Debug/net6.0/collections-exercise.csproj.CoreCompileInputs.cache
+/Users/saif-ul.hussain/Projects/collections-exercise/obj/Debug/net6.0/collections-exercise.dll
+/Users/saif-ul.hussain/Projects/collections-exercise/obj/Debug/net6.0/refint/collections-exercise.dll
+/Users/saif-ul.hussain/Projects/collections-exercise/obj/Debug/net6.0/collections-exercise.pdb
+/Users/saif-ul.hussain/Projects/collections-exercise/obj/Debug/net6.0/collections-exercise.genruntimeconfig.cache
+/Users/saif-ul.hussain/Projects/collections-exercise/obj/Debug/net6.0/ref/collections-exercise.dll
